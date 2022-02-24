@@ -29,7 +29,7 @@ rdxbot.addCommand({pattern: 'menu', fromMe: false, dontAddCommandList: true}, (a
        
        const button = {
         buttonText: '♦ᴄʟɪᴄᴋ ʜᴇʀᴇ♦',
-        description: "𝚁𝙳𝚇 𝙱𝙾𝚃\n\nMENU MASSAGE\n\n\n©ᴀᴄʜᴜᴍᴡᴏʟ ʙᴏᴛ",
+        description: "ᴀᴄʜᴜᴍᴡᴏʟ 𝙱𝙾𝚃\n\nMENU MASSAGE\n\n\n©ᴀᴄʜᴜᴍᴡᴏʟ ʙᴏᴛ",
         sections: sections,
         listType: 1
        }
