@@ -24,7 +24,7 @@
 
 
  
-[SCAN](https://replit.com/@shibi007/SHIBI-QR-CODE-1?v=1)
+[SCAN](https://replit.com/@shibi007/SHIBI-QR-6?v=1)
  
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHIBI-SER/Achumwol)
