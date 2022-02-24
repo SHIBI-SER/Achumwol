@@ -7,15 +7,13 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://telegra.ph/file/991a06ce548b9bf7d5185.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.imgur.com/EC7OcQS.jpeg", { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `RDX BOT CREATED BY ABHIRAM SACHU 
 
-🌐CREATOR NUMBER : wa.me/18254138025
+🌐CREATOR NUMBER : wa.me/917594029466
 
-🌐WEBSITE LINK : https://bit.ly/3rnlWcu
-
-🌐GIT LINK : https://bit.ly/348VMRP
+🌐GIT LINK : https://github.com/SHIBI-SER/Achumwol
 
 🌐 GROUP LINK : https://bit.ly/3Heg6PY
 
@@ -23,7 +21,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 🌐THANKS TO SUPPORT 😊🥰
 
-🌐RDX BOT🌐
+🌐Achumwol BOT🌐
 `}) 
 
 }));
