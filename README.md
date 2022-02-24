@@ -23,9 +23,9 @@
 
 4. You will have to fork this git to deploy via Heroku.
   click to fork the git into your account
- Click [FORK](https://github.com/SHIBI-SER/RDX/fork)
+ Click [FORK](https://github.com/SHIBI-SER/Achumwol/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/SHIBI-SER/RDX
+5. Now https://heroku.com/deploy?template=https://github.com/SHIBI-SER/Achumwol
 
 
 6.This method not working click [Whtsapp Number](https://wa.me/qr/CYBN2KFKQTAIN1) Save my number and massage me 
@@ -37,10 +37,10 @@
   <a href="httsp://github.com/KINGS-AS/RDX">
     <img src="https://img.shields.io/github/repo-size/KINGS-AS/RDX?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/KINGS-AS/followers"><img title="Followers" src="https://img.shields.io/github/followers/KINGS-AS?color=blue&style=flat-square"></a>
-<a href="https://github.com/KINGS-AS/RDX/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KINGS-AS/RDX?color=blue&style=flat-square"></a>
-<a href="https://github.com/KINGS-AS/RDX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KINGS-AS/RDX?color=blue&style=flat-square"></a>
-<a href="https://github.com/KINGS-AS/RDX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KINGS-AS/RDX?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/SHIBI-SER/followers"><img title="Followers" src="https://img.shields.io/github/followers/KINGS-AS?color=blue&style=flat-square"></a>
+<a href="https://github.com/SHIBI-SER/Achumwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KINGS-AS/RDX?color=blue&style=flat-square"></a>
+<a href="https://github.com/SHIBI-SER/Achumwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KINGS-AS/RDX?color=blue&style=flat-square"></a>
+<a href="https://github.com/SHIBI-SER/Achumwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KINGS-AS/RDX?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -53,6 +53,6 @@
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, RDX executives do not accept responsibility.
-By establishing the RDX, you are deemed to have accepted these responsibilities.
+Absolutely, Achumwol executives do not accept responsibility.
+By establishing the Achumwol, you are deemed to have accepted these responsibilities.
 ```
