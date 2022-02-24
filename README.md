@@ -47,6 +47,12 @@
 
 
 
+## 📢 Guide
+Click WA logo to Join Support Group 👇
+    <br>
+<br>
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/I5pM64Tju5VKGRuZh2u5sv)
+  <div align="center">
 
 
         
