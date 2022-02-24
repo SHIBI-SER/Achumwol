@@ -19,7 +19,7 @@
 1. If you dont have a github account create a account. Click [GITHUB SIGN UP](https://github.com/signup/)
 
 2. 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/https://replit.com/@MUHAMMADSHIBILY/SHIBI-QR-CODE-2?v=1)
+[SCAN](https://replit.com/@shibi007/SHIBI-QR-CODE-1?v=1)
  
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SHIBI-SER/Achumwol)
