@@ -1,6 +1,6 @@
 <div align="center"
 
-
+![SHIBI](https://i.imgur.com/EC7OcQS.jpeg?size=1500)
   ### TOTAL REPO VIEWS♦
 
 ![Visitor Count](https://profile-counter.glitch.me/KINGS-AS/count.svg)
