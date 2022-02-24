@@ -3,8 +3,13 @@
 
 ![SHIBI](https://i.imgur.com/EC7OcQS.jpeg?size=1500)
   ### TOTAL REPO VIEWS♦
+<p align="center">
+  <a href="https://instagram.com/SHIBI__ZX"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/917594029466"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/KINGS-AS/count.svg)
+
   
 ### TOTAL WEBSITE VISIT🌐
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://rdx-whtsapp-bot-website.yolasite.com/&count_bg=%2379C83D&title_bg=%23030303&icon=webauthn.svg&icon_color=%23FFFAFA&title=WEBSITE+VISITORS&edge_flat=false)](https://rdx-whtsapp-bot-website.yolasite.com/)
@@ -16,9 +21,9 @@
 
   ### If there is an error deploying, try the following steps
   
-1. If you dont have a github account create a account. Click [GITHUB SIGN UP](https://github.com/signup/)
 
-2. 
+
+ 
 [SCAN](https://replit.com/@shibi007/SHIBI-QR-CODE-1?v=1)
  
 
