@@ -57,3 +57,14 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, Achumwol executives do not accept responsibility.
 By establishing the Achumwol, you are deemed to have accepted these responsibilities.
 ```
+
+## Developer
+
+  <div align="center">
+
+----|
+   `Base, Bug Fixes, Modules`
+
+  [![shibi](https://i.imgur.com/XCM04h0.jpeg)](https://github.com/SHIBI-SER)[`shibi`](https://github.com/SHIBI-SER)
+----|
+   `Re-Developer, Bug Fixes, Modules, Commits
