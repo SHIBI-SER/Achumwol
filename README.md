@@ -62,7 +62,7 @@ By establishing the Achumwol, you are deemed to have accepted these responsibili
 
   <div align="center">
 
-----|
+
    `Base, Bug Fixes, Modules`
 
   [![shibi](https://i.imgur.com/XCM04h0.jpeg)](https://github.com/SHIBI-SER)[`shibi`](https://github.com/SHIBI-SER)
