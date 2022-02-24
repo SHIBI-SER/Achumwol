@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('😈 RDX working!')
+            chalk.green.bold('😈 Achumwol working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '🤖*RDX STARTED*🤖', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '🤖*Achumwol STARTED*🤖', MessageType.text);
                 }
             }
             else {
@@ -186,7 +186,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '🤖*RDX STARTED*🤖', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '🤖*Achumwol STARTED*🤖', MessageType.text);
                 }
 
             }
@@ -212,7 +212,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '🤖*RDX STARTED*🤖', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '🤖*Achumwol STARTED*🤖', MessageType.text);
                 }
             }
             else {
@@ -235,7 +235,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '🤖*RDX STARTED*🤖', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '🤖*Achumwol STARTED*🤖', MessageType.text);
                 }
             }
         }
@@ -383,8 +383,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *RDX  ERROR FOUND!* ~______~*' +
-                                    '\n\n*⚠️ ' + error + '*\n\n```Connect owner https://wa.me/qr/CYBN2KFKQTAIN1``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *Achumwol  ERROR FOUND!* ~______~*' +
+                                    '\n\n*⚠️ ' + error + '*\n\n```Connect owner https://wa.me/917594029466``` ' 
                                     , MessageType.text);
                             }
                         }
