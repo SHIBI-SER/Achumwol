@@ -9,19 +9,18 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     var skl = await axios.get("https://i.imgur.com/EC7OcQS.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `RDX BOT CREATED BY ABHIRAM SACHU 
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `ACHUMWOL BOT CREATED BY SHIBI SER 
 
-🌐CREATOR NUMBER : wa.me/917594029466
+⭐️CREATOR NUMBER : wa.me/917594029466
 
-🌐GIT LINK : https://github.com/SHIBI-SER/Achumwol
+⭐️GIT LINK : https://github.com/SHIBI-SER/Achumwol
 
-🌐 GROUP LINK : https://bit.ly/3Heg6PY
 
-🌐 AND THANKS TO MY  COLLABORATORS 🥰
+⭐️ AND THANKS TO MY  COLLABORATORS 🥰
 
-🌐THANKS TO SUPPORT 😊🥰
+⭐️HANKS TO SUPPORT 😊🥰
 
-🌐Achumwol BOT🌐
+⭐️Achumwol BOT⭐️
 `}) 
 
 }));
